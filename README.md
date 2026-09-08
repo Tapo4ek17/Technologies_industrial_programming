@@ -1,0 +1,2 @@
+# Technologies_industrial_programming
+Технологии индивидуального программирования 
